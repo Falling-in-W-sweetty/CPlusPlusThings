@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 double power(double x, int n);
-
+//你这是十进制换算二进制吧？
 int main(int argc, char const *argv[])
 {
     int x;
